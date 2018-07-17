@@ -1,0 +1,304 @@
+[
+    {
+    "name": "Cuco Martina",
+    "position": "Right-Back",
+    "jerseyNumber": 15,
+    "dateOfBirth": "1989-09-25",
+    "nationality": "Curacao",
+    "flag": "https://lipis.github.io/flag-icon-css/flags/4x3/cw.svg",
+    "contractUntil": "2020-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p56192.png"
+    },
+    {
+    "name": "Jordan Pickford",
+    "position": "Keeper",
+    "jerseyNumber": 1,
+    "dateOfBirth": "1994-03-07",
+    "nationality": "England",
+    "contractUntil": "2022-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p111234.png"
+    },
+    {
+    "name": "Maarten Stekelenburg",
+    "position": "Keeper",
+    "jerseyNumber": 22,
+    "dateOfBirth": "1982-09-22",
+    "nationality": "Netherlands",
+    "contractUntil": "2019-06-30",
+    "marketValue": null,
+    "image": "http://cdn.gsports.live/football/wp-content/uploads/sites/2/1982/09/Maarten-Stekelenburg-300x300.png"
+    },
+    {
+    "name": "Ramiro Funes Mori",
+    "position": "Centre-Back",
+    "jerseyNumber": 25,
+    "dateOfBirth": "1991-03-05",
+    "nationality": "Argentina",
+    "contractUntil": "2020-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p121221.png"
+    },
+    {
+    "name": "Ashley Williams",
+    "position": "Centre-Back",
+    "jerseyNumber": 5,
+    "dateOfBirth": "1984-08-23",
+    "nationality": "Wales",
+    "contractUntil": "2019-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p19159.png"
+    },
+    {
+    "name": "Phil Jagielka",
+    "position": "Centre-Back",
+    "jerseyNumber": 6,
+    "dateOfBirth": "1982-08-17",
+    "nationality": "England",
+    "contractUntil": "2019-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p7645.png"
+    },
+    {
+    "name": "Mason Holgate",
+    "position": "Centre-Back",
+    "jerseyNumber": 30,
+    "dateOfBirth": "1996-10-22",
+    "nationality": "England",
+    "contractUntil": "2022-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p194164.png"
+    },
+    {
+    "name": "Leighton Baines",
+    "position": "Left-Back",
+    "jerseyNumber": 3,
+    "dateOfBirth": "1984-12-11",
+    "nationality": "England",
+    "contractUntil": "2019-06-30",
+    "marketValue": null,
+    "image": "https://pre00.deviantart.net/9b7f/th/pre/f/2017/261/f/c/leighton_baines_render_by_fa_render-dbnu6jx.png"
+    },
+    {
+    "name": "Luke Garbutt",
+    "position": "Left-Back",
+    "jerseyNumber": 36,
+    "dateOfBirth": "1993-05-21",
+    "nationality": "England",
+    "contractUntil": "2020-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p80183.png"
+    },
+    {
+    "name": "Seamus Coleman",
+    "position": "Right-Back",
+    "jerseyNumber": 23,
+    "dateOfBirth": "1988-10-11",
+    "nationality": "Ireland",
+    "contractUntil": "2022-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p59949.png"
+    },
+    {
+    "name": "Morgan Schneiderlin",
+    "position": "Defensive Midfield",
+    "jerseyNumber": 2,
+    "dateOfBirth": "1989-11-08",
+    "nationality": "France",
+    "contractUntil": "2021-06-30",
+    "marketValue": null,
+    "image": "https://cdn.vox-cdn.com/thumbor/o0q3IpgiuEw6BLd2aBynRgA-aEI=/0x0:3687x2634/1200x800/filters:focal(1444x609:2032x1197)/cdn.vox-cdn.com/uploads/chorus_image/image/57031433/856205882.0.jpg"
+    },
+    {
+    "name": "James McCarthy",
+    "position": "Central Midfield",
+    "jerseyNumber": 16,
+    "dateOfBirth": "1990-11-12",
+    "nationality": "Ireland",
+    "contractUntil": "2020-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p50472.png"
+    },
+    {
+    "name": "Tom Davies",
+    "position": "Central Midfield",
+    "jerseyNumber": 26,
+    "dateOfBirth": "1998-06-30",
+    "nationality": "England",
+    "contractUntil": "2022-06-30",
+    "marketValue": null,
+    "image": "http://cdn.gsports.live/football/wp-content/uploads/sites/2/1998/06/Tom-Davies-300x300.png"
+    },
+    {
+    "name": "Yannick Bolasie",
+    "position": "Left Wing",
+    "jerseyNumber": 7,
+    "dateOfBirth": "1989-05-24",
+    "nationality": "DR Congo",
+    "contractUntil": "2021-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p55452.png"
+    },
+    {
+    "name": "Dominic Calvert-Lewin",
+    "position": "Centre-Forward",
+    "jerseyNumber": 29,
+    "dateOfBirth": "1997-03-16",
+    "nationality": "England",
+    "contractUntil": "2023-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p177815.png"
+    },
+    {
+    "name": "Michael Keane",
+    "position": "Centre-Back",
+    "jerseyNumber": 4,
+    "dateOfBirth": "1993-01-11",
+    "nationality": "England",
+    "contractUntil": "2022-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p106611.png"
+    },
+    {
+    "name": "Wayne Rooney",
+    "position": "Secondary Striker",
+    "jerseyNumber": 10,
+    "dateOfBirth": "1985-10-24",
+    "nationality": "England",
+    "contractUntil": "2019-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p13017.png"
+    },
+    {
+    "name": "Theo Walcott",
+    "position": "Right Wing",
+    "jerseyNumber": 11,
+    "dateOfBirth": "1989-03-16",
+    "nationality": "England",
+    "contractUntil": "2021-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p20467.png"
+    },
+    {
+    "name": "Shani Tarashaj",
+    "position": "Secondary Striker",
+    "jerseyNumber": null,
+    "dateOfBirth": "1995-02-07",
+    "nationality": "Switzerland",
+    "contractUntil": "2020-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p179141.png"
+    },
+    {
+    "name": "Davy Klaassen",
+    "position": "Attacking Midfield",
+    "jerseyNumber": 20,
+    "dateOfBirth": "1993-02-21",
+    "nationality": "Netherlands",
+    "contractUntil": "2022-06-30",
+    "marketValue": null,
+    "image": "https://sortitoutsi.net/uploads/images/rDIvBL3ULWQsnIeJ7lEXEk5XVw2dxyJd.png"
+    },
+    {
+    "name": "Idrissa Gueye",
+    "position": "Central Midfield",
+    "jerseyNumber": 17,
+    "dateOfBirth": "1989-09-26",
+    "nationality": "Senegal",
+    "contractUntil": "2022-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p80801.png"
+    },
+    {
+    "name": "Beni Beningime",
+    "position": "Central Midfield",
+    "jerseyNumber": 54,
+    "dateOfBirth": "1998-09-09",
+    "nationality": "DR Congo",
+    "contractUntil": "2022-06-30",
+    "marketValue": null,
+    "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article13813046.ece/ALTERNATES/s482b/JS134561336.jpg"
+    },
+    {
+    "name": "Gylfi Sigurdsson",
+    "position": "Attacking Midfield",
+    "jerseyNumber": 18,
+    "dateOfBirth": "1989-09-08",
+    "nationality": "Iceland",
+    "contractUntil": "2022-06-30",
+    "marketValue": null,
+    "image": "https://orig00.deviantart.net/a997/f/2017/229/f/c/gylfi_sigurdsson_by_flashdsg-dbkcd9t.png"
+    },
+    {
+    "name": "Ademola Lookman",
+    "position": "Left Wing",
+    "jerseyNumber": 31,
+    "dateOfBirth": "1997-10-20",
+    "nationality": "England",
+    "contractUntil": "2021-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p219352.png"
+    },
+    {
+    "name": "Henry Onyekuru",
+    "position": "Left Wing",
+    "jerseyNumber": "",
+    "dateOfBirth": "1997-06-05",
+    "nationality": "Nigeria",
+    "contractUntil": "2022-06-30",
+    "marketValue": null,
+    "image": "https://pbs.twimg.com/profile_images/961484274913497088/zkY9MUDM.jpg"
+    },
+    {
+    "name": "Oumar Niasse",
+    "position": "Centre-Forward",
+    "jerseyNumber": 19,
+    "dateOfBirth": "1990-04-18",
+    "nationality": "Senegal",
+    "contractUntil": "2020-06-30",
+    "marketValue": null,
+    "image": "https://static.fctables.com/upload/9t/9t55d58a234cbcddf2/baye-oumar-niasse.png"
+    },
+    {
+    "name": "Sandro Ramirez",
+    "position": "Centre-Forward",
+    "jerseyNumber": 9,
+    "dateOfBirth": "1997-07-09",
+    "nationality": "Spain",
+    "contractUntil": "2021-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p108438.png"
+    },
+    {
+    "name": "Cenk Tosun",
+    "position": "Centre-Forward",
+    "jerseyNumber": 14,
+    "dateOfBirth": "1991-06-07",
+    "nationality": "Turkey",
+    "contractUntil": "2022-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p66838.png"
+    },
+    {
+    "name": "Nikola Vlasic",
+    "position": "Attacking Midfield",
+    "jerseyNumber": 27,
+    "dateOfBirth": "1997-10-04",
+    "nationality": "Croatia",
+    "contractUntil": "2022-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p180151.png"
+    },
+    {
+    "name": "Jonjoe Kenny",
+    "position": "Right-Back",
+    "jerseyNumber": 43,
+    "dateOfBirth": "1997-03-15",
+    "nationality": "England",
+    "contractUntil": "2022-06-30",
+    "marketValue": null,
+    "image": "https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/250x250/p153673.png"
+    }
+    ]
+    
